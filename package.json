@@ -1,0 +1,26 @@
+{
+  "name": "vuejscalculator",
+  "version": "1.0.0",
+  "description": "Vue JS calcualtor done by freecodecamp.org tutorial",
+  "main": "Calculator.Vue",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "vue serve Calculator.vue"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VerySadOtaku/VueJSCalculator.git"
+  },
+  "keywords": [
+    "vue.js",
+    "html",
+    "css"
+  ],
+  "author": "VerySadOtaku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VerySadOtaku/VueJSCalculator/issues"
+  },
+  "homepage": "https://github.com/VerySadOtaku/VueJSCalculator#readme"
+}
